@@ -1,2 +1,7 @@
 # hello-word
-This repository is for practicing the GitHub Flow
+my-github-practice
+
+## Contributors
+
+- **Muneer Muhammed Yussuf** - [princemuneer.y@gmail.com](mailto:princemuneer.y@gmail.com)  
+- **Instructor: Mubaraq** - [github.com/mubarraqqq](https://github.com/mubarraqqq)
