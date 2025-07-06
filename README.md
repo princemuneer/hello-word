@@ -1,5 +1,5 @@
 # my-github-practice
-my-github-practice
+Muneer's public repository initialized with a README/github-practice
 
 ## Contributors
 
