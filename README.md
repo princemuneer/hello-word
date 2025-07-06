@@ -1,4 +1,4 @@
-# hello-word
+# my-github-practice
 my-github-practice
 
 ## Contributors
